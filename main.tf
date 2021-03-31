@@ -15,7 +15,7 @@ terraform {
     organization = "achterkamp"
 
     workspaces {
-      name = "gh-actions-demo"
+      name = "gh-actions-aws"
     }
   }
 }
